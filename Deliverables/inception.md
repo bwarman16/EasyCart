@@ -1,4 +1,4 @@
-﻿Group 03 - “[Easy Cart]”\
+﻿_Group 03 - “[Easy Cart]”\
 Date and location: July 12, 2021\
 Group Members: Justin Ceccarelli, Jason Gaglione, Jack Decker, Michael Nelson, Linh Nguyen, Brandon Warman, Jabril Gray
 
@@ -28,8 +28,8 @@ Busypeople
 **Summary:** Found that they would definitely use this to help them make meals. Discussed how often they cook, how hard they found it to decide on a recipe and if it was healthy, discussed how tedious it is to make a list of all the ingredients. App is straight forward of how to use and what specifications to put in. Simple way to look up any type of recipes with what kind of macros they’re looking for. 
 
 **Interviewer:** Justin Ceccarelli\
-**Interviewee:** Annie Hoffecker
-**When:** 07/12/2021
+**Interviewee:** Annie Hoffecker\
+**When:** 07/12/2021\
 **Consumer Segments:** People who cook
 
 **Key Insights:**
@@ -299,7 +299,7 @@ When: 7/11/2021
 - “I see many people who are frustrated in finding ingredients that are appropriate for their dietary restrictions”
 - “Finding recipes for those with limited options for ingredients is difficult”
 
-**Hypotheses that were validated:**
+**Hypotheses that were validated:** None
 
 **Assessment: Must have / Nice to have / Don’t care:**
 - Price comparisons and availability (nice to have)
@@ -310,7 +310,7 @@ When: 7/11/2021
 ### Interview 10:
 
 **Interviewer:** Jabril Gray\
-**Interviewee:** Delanie Williams\ 
+**Interviewee:** Delanie Williams\
 **When:** 07/11/2021
 
 **Consumer Segment:** Over All Use of Website 
@@ -500,4 +500,4 @@ People trying to cook\
 Fitness people\
 Healthy eaters\
 People trying to save money\
-Average Grocery Shopper\
+Average Grocery Shopper

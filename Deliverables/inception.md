@@ -1,13 +1,12 @@
-Group 03 - “[Easy Cart]”
+﻿Group 03 - “[Easy Cart]”
 Date and location: July 12, 2021
 Group Members: Justin Ceccarelli, Jason Gaglione, Jack Decker, Michael Nelson, Linh Nguyen, Brandon Warman, Jabril Gray
 
 1. Introduction
-With everyone being so busy these days it seems hard to not just go with the easy choice of going through a drive thru and grabbing a greasy meal that’ll fill you up and make you feel gross afterwards. You tell yourself that tomorrow you’ll cook a meal and try to eat healthier but those bright neon lights are so inviting knowing that they’ll have your meal prepared within minutes. Easy Cart is a web application that makes shopping for meals even easier than before. You put in what type of meal you’d like italian, greek, mexican, etc. as well as how many grams of fats, carbs, or  proteins you want then will send you a grocery list of what to pick up from walmart to prepare this meal. It takes all the questions out of what to make, what you need to get and the nutrition facts out of the picture. Some future work may include adding it to be able to be picked up from out front not even needing to go in the store as well as adding other grocery stores to the list to pick from. Hopefully other grocery stores create public API’s to use so we can have these other stores added to the list of stores to choose from.
+With everyone being so busy these days it seems hard to not just go with the easy choice of going through a drive thru and grabbing a greasy meal that’ll fill you up and make you feel gross afterwards. You tell yourself that tomorrow you’ll cook a meal and try to eat healthier but those bright neon lights are so inviting knowing that they’ll have your meal prepared within minutes. Easy Cart is a web application that makes shopping for meals even easier than before. You put in what type of meal you’d like italian, greek, mexican, etc. as well as how many grams of fats, carbs, or  proteins you want then will send you a grocery list of what to pick up from walmart to prepare this meal. It takes all the questions out of what to make, what you need to get and the nutrition facts out of the picture. Some future work may include adding it to be able to be picked up from out front not even needing to go in the store as well as adding other grocery stores to the list to pick from. Hopefully other grocery stores create public API’s to use so we can have these other stores added to the list of stores to choose from.
 
 2. Initial value proposition and consumer segments
 Easy Cart is a free, web application made to help people create nice meals without the hassle of trying to find a specific recipe and what ingredients they need to pick up.
-
 
 Initial Consumer Segments:
 Healthy Eaters
@@ -24,7 +23,7 @@ Busypeople
 
 Interview 1:
 
-Summary: Found that they would definitely use this to help them make meals. Discussed how often they cook, how hard they found it to decide on a recipe and if it was healthy, discussed how tedious it is to make a list of all the ingredients. App is straight forward of how to use and what specifications to put in. Simple way to look up any type of recipes with what kind of macros they’re looking for. 
+Summary: Found that they would definitely use this to help them make meals. Discussed how often they cook, how hard they found it to decide on a recipe and if it was healthy, discussed how tedious it is to make a list of all the ingredients. App is straight forward of how to use and what specifications to put in. Simple way to look up any type of recipes with what kind of macros they’re looking for. 
 
 Interviewer: Justin Ceccarelli
 Interviewee: Annie Hoffecker
@@ -56,7 +55,7 @@ Recommendations from previous recipes (Don’t care)
 
 Interview 2:
 
-Summary: Making a list from an online recipe is just tedious to do. Easy to enter what you’re looking for. User friendly design. Could get emailed a list. 
+Summary: Making a list from an online recipe is just tedious to do. Easy to enter what you’re looking for. User friendly design. Could get emailed a list. 
 
 Interviewer: Justin Ceccarelli
 Interviewee: Jill Sedgewick
@@ -97,27 +96,27 @@ Interviewee: Kevin Lindbloom
 When: 7/10/2021
 
 Consumer Segment:
-College student
-Person who cooks often
+• College student
+• Person who cooks often
 
 Key Insights:
-Recipe suggestions for the user if they need help making one
-Product selection filter for price and brand
-Simple user interface for quick access
+• Recipe suggestions for the user if they need help making one
+• Product selection filter for price and brand
+• Simple user interface for quick access
 
 Representative Quotes:
-"A quick way to access in case I need a recipe in a pinch."
-"Ability to choose the brand of food I most often use."
-"It would be nice to have suggestions when I'm not sure what to make."
+• "A quick way to access in case I need a recipe in a pinch."
+• "Ability to choose the brand of food I most often use."
+• "It would be nice to have suggestions when I'm not sure what to make."
 
 Hypotheses that were validated:
-While cost is an issue for some, brands are an issue for others
-Recipe suggestions make the process of finding one much faster
+• While cost is an issue for some, brands are an issue for others
+• Recipe suggestions make the process of finding one much faster
 
 Assessment:
-Filter by brand (must have)
-Mobile accessibility (nice to have)
-Recipe suggestions (nice to have)
+• Filter by brand (must have)
+• Mobile accessibility (nice to have)
+• Recipe suggestions (nice to have)
 
 Interview 4:
 
@@ -128,29 +127,28 @@ Interviewee: Chris Giudice
 When: 7/11/2021
 
 Consumer Segment:
-College student
-Family oriented
-Meal prepper
+• College student
+• Family oriented
+• Meal prepper
 
 Key Insights:
-Price listing of ingredients to get the most value
-Full description of products to encourage healthier options
-Include how much the recipe/meal will be feeding
+• Price listing of ingredients to get the most value
+• Full description of products to encourage healthier options
+• Include how much the recipe/meal will be feeding
 
 Representative Quotes:
-"I like to keep track of my meals and calorie intake."
-"I hate when recipes don't offer alternative ingredients."
-"Families and larger households need to know how much they need of each item."
+• "I like to keep track of my meals and calorie intake."
+• "I hate when recipes don't offer alternative ingredients."
+• "Families and larger households need to know how much they need of each item."
 
 Hypotheses that were validated:
-Finding the right price is important for many users
-Users want filters that cover price, calories, portion size, etc.
+• Finding the right price is important for many users
+• Users want filters that cover price, calories, portion size, etc.
 
 Assessment:
-Product description (nice to have)
-Price listing and comparison (must have)
-Product filters (must have)
-
+• Product description (nice to have)
+• Price listing and comparison (must have)
+• Product filters (must have)
 
 
 Interview 5:
@@ -186,66 +184,65 @@ Ingredient availability (Must have)
 
 Interview 6:
 
-Summary: A tool to build recipes automatically would be beneficial for a quick and easy trip to the store. Helpful for finding new recipes to try.  
+Summary: A tool to build recipes automatically would be beneficial for a quick and easy trip to the store. Helpful for finding new recipes to try.  
 
 Interviewer: Jason Gaglione
 Interviewee: Nathen Blowers
 When: 07/11/2021
- 
+ 
 Consumer Segment:
-·         NAU Student
-·         Fitness Wellness Major
-·         Very active
+·         NAU Student
+·         Fitness Wellness Major
+·         Very active
 
 Key insights:
-·         Easy to choose new foods to try.
-·         Not too flashy and over the top.
-·         Recipe suggestions based on previous searches or recipes.
- 
+·         Easy to choose new foods to try.
+·         Not too flashy and over the top.
+·         Recipe suggestions based on previous searches or recipes.
+ 
 Representative quotes:
-·         “Substitutes for recipes for people with a certain allergy or are lactose intolerant.”
-·         “Or if you had instead of substitutes you had variants of recipes that are similar to the ones like recommendations.”
-·         “I would give it a shot especially you know, living up at NAU it could get kind of stale cooking the same old foods.”
+·         “Substitutes for recipes for people with a certain allergy or are lactose intolerant.”
+·         “Or if you had instead of substitutes you had variants of recipes that are similar to the ones like recommendations.”
+·         “I would give it a shot especially you know, living up at NAU it could get kind of stale cooking the same old foods.”
 
 Hypothesis that were validated:
-·         Beneficial for those who want to try new recipes.
-·         It is important to have room to change ingredients or have substitutes.
- 
+·         Beneficial for those who want to try new recipes.
+·         It is important to have room to change ingredients or have substitutes.
+ 
 Assessment: Must have / Nice to have / Don’t care:
-·         Recommendations for different recipes (Nice to have).
-·         Substitutes for allergies and other health reasons (Must have)
-·         Easy to use (Must have)
+·         Recommendations for different recipes (Nice to have).
+·         Substitutes for allergies and other health reasons (Must have)
+·         Easy to use (Must have)
 
 Interview 7:
 
-Summary: Discussed how often grocery trips were made and what was looked for when shopping.Some uncertainty while grocery shopping has led to wasted time and money. Seeing nutritional values would be very helpful. Wouldn’t use this program every trip but would occasionally. 
+Summary: Discussed how often grocery trips were made and what was looked for when shopping.Some uncertainty while grocery shopping has led to wasted time and money. Seeing nutritional values would be very helpful. Wouldn’t use this program every trip but would occasionally. 
 
 Interviewer: Jason Gaglione
 Interviewee: Chris Rogers
 When: 07/11/2021
 
 Consumer Segment:
-NAU student
-Criminal Justice Major
-Former football player
+• NAU student
+• Criminal Justice Major
+• Former football player
 
 Key insights:
-Seeing nutritional values for each recipe would be beneficial.
-Would help make shopping easier when unsure of buying food.
+• Seeing nutritional values for each recipe would be beneficial.
+• Would help make shopping easier when unsure of buying food.
 
 Representative quotes:
-“Ghost pepper chips and jalapeno lemonade, terrible decisions.”
-“I’m interested in using that, but I think adding the nutrition from the meal would help also.”
+• “Ghost pepper chips and jalapeno lemonade, terrible decisions.”
+• “I’m interested in using that, but I think adding the nutrition from the meal would help also.”
 
 Hypothesis that were validated:
-Makes shopping quicker and easier when having a created list.
-A list will help make clearer decisions.
+• Makes shopping quicker and easier when having a created list.
+• A list will help make clearer decisions.
 
 Assessment: Must have / Nice to have / Don’t care:
-Nutritional values available to see (Nice to have)
-Quick and easy experience (Must have)
-Help make better decisions (Nice to have)
-
+• Nutritional values available to see (Nice to have)
+• Quick and easy experience (Must have)
+• Help make better decisions (Nice to have)
 
 Interview 8:
 
@@ -270,7 +267,7 @@ Representative quotes:
 
 Hypotheses that were validated:
 Ingredients not being available is a problem
-This would be beneficial with people with dietary restrictions 
+This would be beneficial with people with dietary restrictions 
 
 Assessment: Must have / Nice to have / Don’t care:
 Macro calculations (nice to have)
@@ -288,7 +285,7 @@ When: 07/12/2021
 
 Consumer Segment: Nutritionist
 
-Key insights: 
+Key insights: 
 Need to include those with dietary restrictions
 Ingredient replacements
 Easy to use
@@ -307,30 +304,29 @@ Dietary restrictions (must have)
 Inclusive recipes and ingredients replacements (must have)
 Easy to use (must have)
 
-
 Interview 10:
 
 Interviewer: Jabril Gray
-Interviewee: Delanie Williams 
+Interviewee: Delanie Williams 
 When: 07/11/2021
 
-Consumer Segment: Over All Use of Website 
+Consumer Segment: Over All Use of Website 
 
 Key insights:
 Calorie counts
-Cross Out Ingredients 
+Cross Out Ingredients 
 Ingredient replacements
 Price comparisons
 
 Representative quotes:
 “Lower the price, easy to try something new”
 “Want must be easier to change or get rid of”
-“Uploading Recipe would bring community together” 
+“Uploading Recipe would bring community together” 
 
 Hypotheses that were validated:
 Recipe aren’t easy to remember in head
-Calories effect of how a person can cook  
-It does not take a lot of time to cook a meal 
+Calories effect of how a person can cook  
+It does not take a lot of time to cook a meal 
 
 Assessment: Must have / Nice to have / Don’t care:
 Stock Level on products (must have)
@@ -400,99 +396,97 @@ Assessment: Must have / Nice to have
 - Simple use: Must have
 - Customize a recipe: Must have
 
-
 Interview 13:
- 
-Summary: My property manager, Sara, tries to cook a couple times a week but can’t find the time typically to commit to all the work.  Sara uses online recipes often and tries to try new ones.  She doesn’t find it hard to find ingredients in stores because she just schedules a pickup with what she needs.
- 
+ 
+Summary: My property manager, Sara, tries to cook a couple times a week but can’t find the time typically to commit to all the work.  Sara uses online recipes often and tries to try new ones.  She doesn’t find it hard to find ingredients in stores because she just schedules a pickup with what she needs.
+ 
 Interviewer: Brandon Warman
 Interviewee: Sara Chronowski
 When: 07/10/2021
- 
+ 
 Consumer Segment:
-·         Order’s groceries online
-·         Occasionally cooks
-·         Property manager
- 
+·         Order’s groceries online
+·         Occasionally cooks
+·         Property manager
+ 
 Key insights:
-·         Does not find it difficult to find ingredients for recipes.
-·         Shops at Target
-·         Uses online recipes
- 
+·         Does not find it difficult to find ingredients for recipes.
+·         Shops at Target
+·         Uses online recipes
+ 
 Representative quotes:
-·         “I just schedule a pickup for the items I need so it’s not hard for me to find ingredients.”
-·         “It would be nice if it had a history of what you’ve cooked in the past so you don’t have to go searching for it again”
- 
+·         “I just schedule a pickup for the items I need so it’s not hard for me to find ingredients.”
+·         “It would be nice if it had a history of what you’ve cooked in the past so you don’t have to go searching for it again”
+ 
 Hypothesis that was validated:
-·         People use online recipes.
- 
+·         People use online recipes.
+ 
 Assessment: Must have / Nice to have / Don’t care:
-·         Saved history of previous recipes (Nice to have).
-·         Support for Target (Must have)
-·         Ease of use (Must have)
- 
- 
+·         Saved history of previous recipes (Nice to have).
+·         Support for Target (Must have)
+·         Ease of use (Must have)
+ 
+ 
 Interview 14:
- 
-Summary: My roommate, Jax, who is a health oriented person, goes to the gym everyday, and cooks every meal.  He finds it hard to find his ingredients at the grocery store.  Jax looks recipes up online but doesn’t follow all of the directions and goes based on what he thinks he would like.  He would like to be able to remove items that he already has.
- 
+ 
+Summary: My roommate, Jax, who is a health oriented person, goes to the gym everyday, and cooks every meal.  He finds it hard to find his ingredients at the grocery store.  Jax looks recipes up online but doesn’t follow all of the directions and goes based on what he thinks he would like.  He would like to be able to remove items that he already has.
+ 
 Interviewer: Brandon Warman
 Interviewee: Jax Hudgens
 When: 07/10/2021
- 
+ 
 Consumer Segment:
-·         Into fitness
-·         Cooks every meal
-·         Biomedical Science graduate.
- 
+·         Into fitness
+·         Cooks every meal
+·         Biomedical Science graduate.
+ 
 Key insights:
-·         Looks up recipes online as inspiration.
-·         Shops at Sprouts
-·         Hardest part is buying the ingredients and preparing the meal.
- 
+·         Looks up recipes online as inspiration.
+·         Shops at Sprouts
+·         Hardest part is buying the ingredients and preparing the meal.
+ 
 Representative quotes:
-·         “I find it hard to find all the ingredients at Sprouts and it takes a long time to get everything I will need”
-·         “I use online recipes more as inspiration on how to cook something and often to follow it all the way.”
- 
+·         “I find it hard to find all the ingredients at Sprouts and it takes a long time to get everything I will need”
+·         “I use online recipes more as inspiration on how to cook something and often to follow it all the way.”
+ 
 Hypothesis that was validated:
-·         People use online recipes.
-·         People find it hard to find the ingredients needed.
- 
- 
+·         People use online recipes.
+·         People find it hard to find the ingredients needed.
+ 
+ 
 Assessment: Must have / Nice to have / Don’t care:
-·         Ability to remove items I already have (Must have).
-·         Support for Sprouts (Must have)
-·         Ease of use (Must have) 
- 
+·         Ability to remove items I already have (Must have).
+·         Support for Sprouts (Must have)
+·         Ease of use (Must have) 
+ 
 
 Interview 15:
- 
-Summary: My leasing manager, Kailey, has been gluten free for the past 4 years.  She likes to cook at home for dinner but not really any other meals.  She typically shops at 3 different stores to find what she needs for a certain meal she has in mind.  Would like to see gluten free options only if she were to use this app.
- 
+ 
+Summary: My leasing manager, Kailey, has been gluten free for the past 4 years.  She likes to cook at home for dinner but not really any other meals.  She typically shops at 3 different stores to find what she needs for a certain meal she has in mind.  Would like to see gluten free options only if she were to use this app.
+ 
 Interviewer: Brandon Warman
 Interviewee: Kailey Carr
 When: 07/11/2021
- 
+ 
 Consumer Segment:
-·         Gluten free
-·         Cooks often
-·         Leasing manager
- 
+·         Gluten free
+·         Cooks often
+·         Leasing manager
+ 
 Key insights:
-·         Shops at Target
-·         Uses online recipes
- 
+·         Shops at Target
+·         Uses online recipes
+ 
 Representative quotes:
-·       “I’m gluten free so I would need to have an option to only see those recipes.”
- 
+·       “I’m gluten free so I would need to have an option to only see those recipes.”
+ 
 Hypothesis that was validated:
-·         People use online recipes.
- 
+·         People use online recipes.
+ 
 Assessment: Must have / Nice to have / Don’t care:
-·         Gluten free options (Must have).
-·         Support for more stores (Must have)
-·         Ease of use (Must have)
-
+·         Gluten free options (Must have).
+·         Support for more stores (Must have)
+·         Ease of use (Must have)
 
 
 4. Final value proposition and consumer segments:
@@ -505,9 +499,6 @@ Healthy eaters
 People trying to save money
 Average Grocery Shopper
 
-
- 
-
-
+ 
 
 

@@ -2,10 +2,10 @@
 Date and location: July 12, 2021
 Group Members: Justin Ceccarelli, Jason Gaglione, Jack Decker, Michael Nelson, Linh Nguyen, Brandon Warman, Jabril Gray
 
-1. Introduction
+1. Introduction:
 With everyone being so busy these days it seems hard to not just go with the easy choice of going through a drive thru and grabbing a greasy meal that’ll fill you up and make you feel gross afterwards. You tell yourself that tomorrow you’ll cook a meal and try to eat healthier but those bright neon lights are so inviting knowing that they’ll have your meal prepared within minutes. Easy Cart is a web application that makes shopping for meals even easier than before. You put in what type of meal you’d like italian, greek, mexican, etc. as well as how many grams of fats, carbs, or  proteins you want then will send you a grocery list of what to pick up from walmart to prepare this meal. It takes all the questions out of what to make, what you need to get and the nutrition facts out of the picture. Some future work may include adding it to be able to be picked up from out front not even needing to go in the store as well as adding other grocery stores to the list to pick from. Hopefully other grocery stores create public API’s to use so we can have these other stores added to the list of stores to choose from.
 
-2. Initial value proposition and consumer segments
+2. Initial value proposition and consumer segments:
 Easy Cart is a free, web application made to help people create nice meals without the hassle of trying to find a specific recipe and what ingredients they need to pick up.
 
 Initial Consumer Segments:

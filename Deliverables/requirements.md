@@ -1,4 +1,6 @@
-_Group 03 - “[Easy Cart]”
+# Requirements
+
+Group 03 - “[Easy Cart]”\
 Date and location: July 14, 2021\
 Group Members: Justin Ceccarelli, Jason Gaglione, Jack Decker, Michael Nelson, Linh Nguyen, Brandon Warman, Jabril Gray
 
@@ -47,10 +49,10 @@ Slimfast Keto - A competitor that has a similar design and, but focuses more on 
 - Displaying the expected nutrition value of recipes.
 - From our interviews people desired an easy to use UI that looks nice so we will work on making a nice design for the website.
 
-## 6. Use cases (Jack Decker)
+## 6. Use cases
 
 ### 6.1. Use case diagram
-
+**![](https://photos.google.com/photo/AF1QipMmTr1WV29OI3MoP3w7sCLa61Arfu6NonRus7XN)
 
 ### 6.2. Use case descriptions and interface sketch
 - A user accesses EasyCart via phone access, uses the price filter to find recipe suggestions, checks store availability, adds to shopping list, and checks off items when bought in store.
@@ -79,5 +81,4 @@ Slimfast Keto - A competitor that has a similar design and, but focuses more on 
 
 ## 8. Issue Track
 	Trello URL: https://trello.com/b/2TDMYnVs/project-board
-
-
+**![](https://photos.google.com/photo/AF1QipNBdDDT2nUVBx5Jv2LimFPPth0FHEw9mNQPHnCS)

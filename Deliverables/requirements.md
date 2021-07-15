@@ -52,7 +52,7 @@ Slimfast Keto - A competitor that has a similar design and, but focuses more on 
 ## 6. Use cases
 
 ### 6.1. Use case diagram
-**![](https://photos.google.com/photo/AF1QipMmTr1WV29OI3MoP3w7sCLa61Arfu6NonRus7XN)
+![alt text](https://photos.google.com/photo/AF1QipMmTr1WV29OI3MoP3w7sCLa61Arfu6NonRus7XN)
 
 ### 6.2. Use case descriptions and interface sketch
 - A user accesses EasyCart via phone access, uses the price filter to find recipe suggestions, checks store availability, adds to shopping list, and checks off items when bought in store.
@@ -81,4 +81,4 @@ Slimfast Keto - A competitor that has a similar design and, but focuses more on 
 
 ## 8. Issue Track
 	Trello URL: https://trello.com/b/2TDMYnVs/project-board
-**![](https://photos.google.com/photo/AF1QipNBdDDT2nUVBx5Jv2LimFPPth0FHEw9mNQPHnCS)
+![alt text](https://photos.google.com/photo/AF1QipNBdDDT2nUVBx5Jv2LimFPPth0FHEw9mNQPHnCS)

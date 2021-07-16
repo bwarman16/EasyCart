@@ -1,5 +1,5 @@
 
-#Analysis
+Analysis
 
 Group 03 - “[Easy Cart]”
 Date and location: July 14, 2021

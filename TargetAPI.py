@@ -1,8 +1,6 @@
 import requests
 
 
-# Method that allows you to find your local Target store ID
-# Takes in a zipcode as int and returns the closest Target information
 class TargetCart:
     # initialize variables and sets store ID to default to 935 (flagstaff)
     def __init__(self, zipCode):
@@ -28,7 +26,7 @@ class TargetCart:
         response = requests.request("GET", url, headers=headers, params=querystring)
         self.storeInfo = response.json()[0]
 
-    # Not sure if we will ever need the address but this returns a dictionary with address info
+    # Not sure if we will ever need the address but this saves a dictionary with address info
     def getLocalStoreAddress(self):
         self.storeAddress = self.storeInfo.get("locations")[0].get("address")
 
@@ -54,8 +52,8 @@ class QueryTarget:
         self.getItemTCIN()
         self.getItemName()
 
-    # Query local target and returns list of products related to keyword searched.
-    # Adds the most relevant option to a dictionary with keyword as key and returned value as value
+    # Query local target and saves list of products related to keyword searched.
+    # Adds the most relevant option to a dictionary with keyword as key and API result as value
     def queryStore(self):
         url = "https://target1.p.rapidapi.com/products/v2/list"
 
@@ -98,7 +96,7 @@ class QueryTarget:
 target = TargetCart(85255)
 print(target.storeID)
 
-result = QueryTarget(target.storeID, "XCVzxfvasd")
+result = QueryTarget(target.storeID, "bacon")
 target.addItemToCart(result)
 
 print(target.shoppingCart)

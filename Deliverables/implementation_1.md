@@ -58,7 +58,7 @@ Trello: [https://trello.com/b/2TDMYnVs/project-board](https://trello.com/b/2TDMY
 **Approved By:** Jack Decker\
 **Print Screen:** Screen with search box that allows you to search for a recipe
 
-**Requirements:** As a developer we need to be able to use the spoonacular api and take the recipes and put it into the target API so that it can show its availability
+**Requirements:** As a developer we need to be able to use the spoonacular api and take the recipes and put it into the target API so that it can show its availability.\
 **Issue:** [https://github.com/bwarman16/EasyCart/issues/16](https://github.com/bwarman16/EasyCart/issues/16)\
 **Pull Request:** [https://github.com/bwarman16/EasyCart/pull/11](https://github.com/bwarman16/EasyCart/pull/11)\
 **Implemented By:** Michael Nelson\
@@ -68,18 +68,23 @@ Trello: [https://trello.com/b/2TDMYnVs/project-board](https://trello.com/b/2TDMY
 ## 3. Adopted technologies
 
 **React:**
+
 React is a framework for front-end website development, which includes many functions or features helping us to code faster and conveniently. Using React framework makes our website work without html files and we can focus on the CSS and JS parts. Moreover, this framework supports us with useful functions and connects with the back-end part.
 
 **HTML, CSS and JavaScript:**
+
 These languages are extremely essential in the front-end development, which helps the website look more professional and attractive with users. For the most simple feature which is showing the recipes, we use JavaScript to fetch the Spoonacular API to get the information faster.
 
 **API:**
+
 API is the powerful tool which helps the project to reach much more information related to the recipes, images, names and items in shopping. There are 3 APIs used in this project: Spoonacular API providing the recipes, images, names and ingredients; Target API providing the right to get the information of items related to the name and price in the supermarket Target; and Walmart API which also supports the information of shopping items related to the name, price and portion size.
 
 **Python Requests Module:**
+
 In this project, most of the teammates choose to use Python as the main programming language, especially the module named Requests in Python. Due to that module, we can easily reach to APIs and get the information related to the shopping items in Target and recipes, ingredients in Spoonacular website. Also, the project uses this language for the back-end development.
 
 **Summary:**
+
 In this implementation, we try to get familiar with these new technologies such as React, API and Back-end stuff. Thanks to React, we can easily develop the front-end part with JavaScript and CSS and the result is the fact that the landing page of a website application looks professional. Besides, the APIs play an important part which provides much more information about the food and supermarket items. As a result, getting used to these technologies makes us understand more about website application building and develop a higher-quality product.
 
 ## 4. Learning/training
@@ -93,8 +98,6 @@ Learning and applying the React is really challenging because it is a new techno
 Describe how you are deploying your system in production. If you are using AWS, remember that AWS Educate offers free credits for students. See the tutorial at https://docker-curriculum.com/ on how to create a container and deploy it on AWS. Provide a link for the system in production. Grading (4 points): This section will be graded based on the adequate use of the technology and its adequate description.
 
 ## 6. Licensing
-
-Inform the license you adopted for your source code (remember to configure GitHub accordingly). Explain why you adopted this license. For more information, check https://choosealicense.com/ and http://redhat.slides.com/glikins/open-sourcelicensing-101#/ Grading (2 points): This section will be evaluated in terms of correctness, completeness, thoroughness, consistency, coherence, and adequate use of language.
 
 The license we have adopted is the Mozilla Public License Version 2.0. The license allows others to modify and add code on to source code. While still allowing them to combine our code with code under other licenses (open or proprietary) with minimal restrictions. Sharing source code with others can provide new, faster ,and updated ways to implement features.   
 

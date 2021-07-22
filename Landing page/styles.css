@@ -1,1 +1,93 @@
+.header {
+	border-radius: 50px;
+	background-color: white;
+	padding: 10px;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+}
 
+body {
+	background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("food2.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+.links {
+	overflow: hidden;
+	background-color: black;
+	border-radius: 25px;
+}
+
+.links a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.links a:hover {
+	background-color: white;
+	color: black;
+}
+
+.leftcolumn {
+	float: left;
+	width: 45%;
+	text-align: center;
+	padding: 25x;
+}
+
+.recipesearch {
+	padding: 100px;
+	border-radius: 25px;
+	margin-top: 30px;
+	background: grey;
+	margin-right: 120px;
+	margin-left: 120px;
+}
+
+.recipesearch input[type=text] {
+	padding: 25px;
+	font-size: 40px;
+	border: none;
+	border-radius: 5px;
+}
+	
+
+.rightcolumn {
+	float: right;
+	width: 55%;
+}
+
+.valuesection {
+	border-radius: 25px;
+	padding: 20px;
+	margin-top: 20px;
+	background: rgba(0, 0, 0, 0.4);
+}
+
+h2 {
+	font-size: 150px;
+	color: white;
+}
+
+p {
+	font-size: 50px;
+	color: white;
+}
+
+.recommendationbox p {
+	font-size: 100px;
+}
+
+p1 {
+	font-size: 80px;
+}
+
+p2 {
+	font-size: 20px;
+	color: white;
+}

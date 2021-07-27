@@ -26,5 +26,5 @@ Approved by: Brandon Warman
 Spoonacular API: Implemented code that allows the user to search for recipes using the Spoonacular api.  
 
 
-##3. Demo
+## 3. Demo
 https://youtu.be/wYJn6kaAM0g

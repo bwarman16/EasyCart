@@ -27,7 +27,7 @@ Spoonacular API: Implemented code that allows the user to search for recipes usi
 
 
 ## 3. Demo
-![EasyCart Demo Video](https://youtu.be/jfZuhmaUFYw)
+[EasyCart Demo Video](https://youtu.be/jfZuhmaUFYw)
 
 
 ## 4. Code quality

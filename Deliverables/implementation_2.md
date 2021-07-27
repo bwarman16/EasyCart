@@ -30,6 +30,20 @@ Spoonacular API: Implemented code that allows the user to search for recipes usi
 https://youtu.be/wYJn6kaAM0g
 
 
+## 4. Code quality
+We try to through the same coding conventions the project 
+The python code we use Pep format so everyone was one the same  
+This the website we base it off of https://www.python.org/dev/peps/pep-0008/
+For the process of designing we use the Bridge design pattern on each end of the codes was abstract ideas of the frontend and backend,.
+We split up into two teams and work on each part until we were able to slowly connect them through python.
+Frontend Team was task to build a frontend that look appeal to the user, by collaborating and using html and css 
+The backend did research and development with the API and python. We use the abstract design pattern to created and finish most of the coding,  
+
+Frontend Team: Justin Ceccarelli, Jason Gaglione, Linh Nguyen
+
+Backend Team: Jabril Gray, Brandon Warman, Michael Nelson, Jack Decker, Linh Nguyen
+
+
 ## 5. Lessons learned
 Our team learned a lot with this second implementation. The first thing we learned in this new implementation is that our new landing pae is way more of a professional website then our old one. It is interesting to see how much better your project can get even when you think that it's at it best. Another thing we learned through this next implementation was that the python flask framework isn't too terribly difficult. It also makes it really easy to be able to hook up our front end UI design with our backend logic. What we would change if we were to continue this project is use a front end framework that works a lot better with our backend framework. This is because when you combine two powerful frameworks for applications it makes your application much faster and easier to read and understand as well. Throughout this second implementation in our meeting we've been able to discuss the problems we need to fix as well as discuss solutions to them. An example of this would be how to hookup the front end to the back end and we all agreed that the flask framework would work the best out of all the possible solutions to use. Overall throuhgout this project we have learned so much useful information as well as being able to do a lot of the work through github is going to help with our future professions in software engineering. 
 

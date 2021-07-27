@@ -25,6 +25,11 @@ Implemented Brandon Warman
 Approved by: Brandon Warman  
 Spoonacular API: Implemented code that allows the user to search for recipes using the Spoonacular api.  
 
+
+## 3. Demo
+https://youtu.be/wYJn6kaAM0g
+
+
 ## 5. Lessons learned
 Our team learned a lot with this second implementation. The first thing we learned in this new implementation is that our new landing pae is way more of a professional website then our old one. It is interesting to see how much better your project can get even when you think that it's at it best. Another thing we learned through this next implementation was that the python flask framework isn't too terribly difficult. It also makes it really easy to be able to hook up our front end UI design with our backend logic. What we would change if we were to continue this project is use a front end framework that works a lot better with our backend framework. This is because when you combine two powerful frameworks for applications it makes your application much faster and easier to read and understand as well. Throughout this second implementation in our meeting we've been able to discuss the problems we need to fix as well as discuss solutions to them. An example of this would be how to hookup the front end to the back end and we all agreed that the flask framework would work the best out of all the possible solutions to use. Overall throuhgout this project we have learned so much useful information as well as being able to do a lot of the work through github is going to help with our future professions in software engineering. 
 

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}
+	Search Results
+{% endblock %}
+{% block content %}
+	{% for data in recipes %}
+	<div class="item">
+		<img src="{{ data.image }}" alt="Food Image">
+		<div class="flex-container">
+			<h1 class="title">{{ data.title }}</h1>
+			<a class="view-button" href="{{ data.sourceUrl }}" target="_blank">View recipe</a>
+		</div>
+		<div class="item">
+			<h1>Shooping List</h1>
+			{% for item in targetCartDict[ data.title ].shoppingCart.values() %}
+			<div class="flex-container">
+				<h1 class="title">{{ item.itemName }}</h1>
+				<p class="view-button">${{ item.itemPrice }}</p>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+	{% endfor %}
+{% endblock %}

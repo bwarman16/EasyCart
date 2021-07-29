@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>{% block title %}Home{% endblock %}</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+	<div class="header">
+			<h1>EasyCart</h1>
+		</div>
+		
+		<div class="links">
+			<a href="#">Why EasyCart?</a>
+			<a href="#">About Us</a>
+			<a href="#">Filter</a>
+			<a href="#" style="float:right">Sign up</a>
+		</div>
+		
+		<!-- Interactive recipe search -->
+		{% block content %}
+		<div class="container">
+			<div class="leftcolumn">
+			
+				<a class="find-recipe" href="/searchpage">Find your recipe</a>
+
+				<div class="recommendationbox">
+					<p>Our recommendation</p>
+				</div>
+				
+			</div>
+
+			<!-- Value proposition -->
+			<div class="rightcolumn">
+				<div class="valuesection">
+					<h1 class="value-brand">Recipes made easy</h1>
+					<p class="value-content">Taking the time to create a shopping list can be time consuming in the working world where time is money. When it comes to groceries, staying healthy while saving time can be difficult, but there is an easier way to save time and reach your goals with EasyCart. EasyCart is an easy to use application that will create the shopping list that you need. Start now with recipes made easy on EasyCart.</p>
+				</div>
+			</div>
+		</div>
+		{% endblock %}
+</body>
+</html>

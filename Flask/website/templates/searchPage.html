@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}
+	Search Page
+{% endblock %}
+{% block content %}
+	<h1 class="title-search">Let's find your recipes</h1>
+	<form action="/find" method='POST'>
+		<input type="text" name="searchRecipe" placeholder="Search your recipe" required>
+	</form>
+{% endblock %}

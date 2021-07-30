@@ -1,8 +1,8 @@
 # Verification & Validation
 
-<p>Group 03 - “[Easy Cart]”<br>
-Date and location: July 29, 2021
-Group Members: Justin Ceccarelli, Jason Gaglione, Jack Decker, Michael Nelson, Linh Nguyen, Brandon Warman, Jabril Gray</p>
+Group 03 - “[Easy Cart]”  
+Date and location: July 29, 2021  
+Group Members: Justin Ceccarelli, Jason Gaglione, Jack Decker, Michael Nelson, Linh Nguyen, Brandon Warman, Jabril Gray  
 
 ## 1. Description 
 Our application is a grocery list generator for a given recipe you can get at Target. You look up the recipe you desire and through our application it returns possible recipes you may like and then gives you the grocery list with the price per ingredient. We did this through building a good front end application that makes it incredibly easy to search up the recipes then through the backend we have the logic that helps return the grocery list and price through the spoonacular API and the target API. We then used a flask framework to be able to connect our front end logic with our backend logic. The front end is completely built with javascript, html, and css for styling. Our backend is completely built by python and certain API’s. The reason we chose to use the Flask framework is because it’s a really powerful python framework that makes it super easy to be able to connect to our html and javascript files.
@@ -11,30 +11,33 @@ Our application is a grocery list generator for a given recipe you can get at Ta
 ### 2.1 Unit test
 The framework I chose to use was unittest which allowed for preset functions for testing the results of our API calls.
 
-2.1.1 https://github.com/bwarman16/EasyCart/blob/main/UnitTest.py
+2.1.1  
+https://github.com/bwarman16/EasyCart/blob/main/UnitTest.py  
 
-2.1.2 https://github.com/bwarman16/EasyCart/blob/main/UnitTest.py
+2.1.2  
+https://github.com/bwarman16/EasyCart/blob/main/UnitTest.py  
 
-2.1.3 https://github.com/bwarman16/EasyCart/blob/main/TargetAPI.py
+2.1.3  
+https://github.com/bwarman16/EasyCart/blob/main/TargetAPI.py  
 
-2.1.4 
-
-![V V_214](https://user-images.githubusercontent.com/87092092/127618718-1fc94ff5-f904-441a-adef-20486467bb64.png)
+2.1.4  
+![V V_214](https://user-images.githubusercontent.com/87092092/127618718-1fc94ff5-f904-441a-adef-20486467bb64.png)  
 
 ### 2.2 Integration test
-2.2.1 We conduct our integration testing using the PyTest framework which supports testing Python very well and easy to set up the environment for testing files. 
+2.2.1  
+We conduct our integration testing using the PyTest framework which supports testing Python very well and easy to set up the environment for testing files.  
+![V V_221](https://user-images.githubusercontent.com/87092092/127618777-b66ae940-7383-420e-8247-ac4335c59861.png)  
 
-![V V_221](https://user-images.githubusercontent.com/87092092/127618777-b66ae940-7383-420e-8247-ac4335c59861.png)
+2.2.2  
+Link GitHub:  
+https://github.com/bwarman16/EasyCart/tree/main/Integration_Test  
+https://github.com/bwarman16/EasyCart/blob/main/Integration_Test/integration_test.py  
 
-2.2.2 Link GitHub:
-https://github.com/bwarman16/EasyCart/tree/main/Integration_Test
-https://github.com/bwarman16/EasyCart/blob/main/Integration_Test/integration_test.py
+2.2.3  
+There are 5 cases for testing in the Integration Test code file. One of examples is the connection between 2 API modules, especially the price of a Spoonacular ingredient from the Target API.  
 
-2.2.3	There are 5 cases for testing in the Integration Test code file. One of examples is the connection between 2 API modules, especially the price of a Spoonacular ingredient from the Target API.
-
-2.2.4.
-
-![V V_224](https://user-images.githubusercontent.com/87092092/127618880-4f849126-cf72-47e3-a81a-9a57fd3c5f3c.png)
+2.2.4  
+![V V_224](https://user-images.githubusercontent.com/87092092/127618880-4f849126-cf72-47e3-a81a-9a57fd3c5f3c.png)  
 
 ## 3. Validation (user evaluation)
 ### Script:
